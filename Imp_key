@@ -1,0 +1,5 @@
+rqt_bag
+rqt_graph
+
+
+source ~/ros/indigo/catkin_ws/devel/setup.bash
